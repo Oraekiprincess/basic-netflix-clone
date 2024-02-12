@@ -21,6 +21,10 @@ body{
 
 }
 
+.a{
+    text-decoration: none;
+}
+
 nav{
     display: flex;
     align-items: center;
